@@ -130,8 +130,10 @@ ul {
 }
 
 main{
-    padding: 18px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin: 5px 80px;
+    gap: 20px;
+    justify-content: center;
 }
