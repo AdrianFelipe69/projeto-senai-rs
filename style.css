@@ -137,3 +137,35 @@ main{
     gap: 20px;
     justify-content: center;
 }
+
+.full-rodape {
+    width: 100%;
+    background-color: #000000;
+    color: var(--branco);
+}
+
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    border-bottom: #363636 1px solid ;
+}
+
+.titulo-main {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.text {
+    font-size: 12px;
+}
+
+.₢ {
+    gap: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.final {
+    font-size: 12px;
+    margin: 5px;
+}
